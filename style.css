@@ -6,7 +6,11 @@ body{
 }
 #calculator{
     border: 1px solid transparent;
+<<<<<<< HEAD
     border-radius: 19px;
+=======
+    border-radius: 99px;
+>>>>>>> c599eba0d3cc5a153ab7af3a3197ee6f1ba33947
 }
 #screen{
     height:150px;
