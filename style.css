@@ -6,9 +6,8 @@ body{
 }
 #calculator{
     border: 1px solid transparent;
-    border-radius: 999999999px;
+    border-radius: 55px;
 }
-
 #screen{
     height:150px;
     width:100%;
