@@ -6,12 +6,7 @@ body{
 }
 #calculator{
     border: 1px solid transparent;
-<<<<<<<<< Temporary merge branch 1
-    border-radius: 99px;
-=========
-    border-radius: 19px;
->>>>>>>>> Temporary merge branch 2
-}
+    border-radius: 99px;}
 #screen{
     height:150px;
     width:100%;
